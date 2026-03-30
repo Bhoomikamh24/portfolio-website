@@ -1,14 +1,11 @@
 export default function Home() {
   const skills = [
     "Python",
-    "Machine Learning",
-    "React",
-    "Next.js",
-    "TypeScript",
     "HTML",
     "CSS",
     "SQL",
-    "GitHub",
+    "Java",
+    "C",
   ];
 
   const projects = [
